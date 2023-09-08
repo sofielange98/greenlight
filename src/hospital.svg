@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B7DDBD;}
+	.st1{fill:#F6E7CE;}
+	.st2{fill:#DFE0E1;}
+	.st3{fill:#70B1E1;}
+	.st4{fill:#F4F6FB;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#F26522;}
+	.st7{fill:#808285;}
+	.st8{fill:#BCBEC0;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M950,500c0,100.55-32.97,193.41-88.72,268.32C779.27,878.57,647.97,950,500,950s-279.27-71.43-361.28-181.68
+			C82.97,693.41,50,600.55,50,500C50,251.48,251.48,50,500,50S950,251.48,950,500z"/>
+		<path class="st1" d="M950,500c0,100.55-32.97,193.41-88.72,268.32H138.72C82.97,693.41,50,600.55,50,500
+			C50,251.48,251.48,50,500,50S950,251.48,950,500z"/>
+	</g>
+	<g>
+		<g>
+			<rect x="216.16" y="328.08" class="st2" width="567.69" height="440.25"/>
+			<g>
+				<g>
+					<rect x="257.48" y="368.81" class="st3" width="57.55" height="57.55"/>
+					<rect x="257.48" y="453.76" class="st3" width="57.55" height="57.55"/>
+					<rect x="257.48" y="538.71" class="st3" width="57.55" height="57.55"/>
+					<rect x="257.48" y="623.66" class="st3" width="57.55" height="57.55"/>
+				</g>
+				<g>
+					<rect x="684.97" y="368.81" class="st3" width="57.55" height="57.55"/>
+					<rect x="684.97" y="453.76" class="st3" width="57.55" height="57.55"/>
+					<rect x="684.97" y="538.71" class="st3" width="57.55" height="57.55"/>
+					<rect x="684.97" y="623.66" class="st3" width="57.55" height="57.55"/>
+				</g>
+			</g>
+		</g>
+		<rect x="346.38" y="206.68" class="st4" width="308.27" height="561.65"/>
+		<g>
+			<rect x="430.8" y="124.32" class="st5" width="139.44" height="82.36"/>
+			<g>
+				
+					<ellipse transform="matrix(0.0839 -0.9965 0.9965 0.0839 293.6175 650.3669)" class="st6" cx="500.52" cy="165.5" rx="31.36" ry="31.36"/>
+				<polygon class="st5" points="524.04,160.31 505.71,160.31 505.71,141.97 495.33,141.97 495.33,160.31 476.99,160.31 
+					476.99,170.69 495.33,170.69 495.33,189.02 505.71,189.02 505.71,170.69 524.04,170.69 				"/>
+			</g>
+		</g>
+		<g>
+			<rect x="416.59" y="266.74" class="st3" width="57.55" height="57.55"/>
+			<rect x="416.59" y="351.69" class="st3" width="57.55" height="57.55"/>
+			<rect x="416.59" y="436.64" class="st3" width="57.55" height="57.55"/>
+			<rect x="416.59" y="521.59" class="st3" width="57.55" height="57.55"/>
+			<rect x="524.83" y="266.74" class="st3" width="57.55" height="57.55"/>
+			<rect x="524.83" y="351.69" class="st3" width="57.55" height="57.55"/>
+			<rect x="524.83" y="436.64" class="st3" width="57.55" height="57.55"/>
+			<rect x="524.83" y="521.59" class="st3" width="57.55" height="57.55"/>
+		</g>
+		<rect x="421.84" y="632.01" class="st7" width="167.16" height="136.32"/>
+		<rect x="390.78" y="628.47" class="st8" width="229.27" height="15.53"/>
+	</g>
+</g>
+</svg>
